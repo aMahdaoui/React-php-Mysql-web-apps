@@ -1,1 +1,3 @@
 // info
+
+the view of MVC is empty because it will be associated to React (go react branche)
