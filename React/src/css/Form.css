@@ -1,0 +1,26 @@
+.Form {
+	width: 600px;
+	margin: 10px auto;
+}
+ 
+.Form label {
+	display: block;
+    text-align: left;
+	float:left;
+	width: 23%;  
+	margin: 15px ; 
+	 
+}
+
+.Form input {
+	float:left;
+	width: 70%;
+	margin: 10px auto;
+}
+
+.Form p {
+	display: block;
+    text-align: left; 
+    margin: 0px;
+    color: red; 
+}
