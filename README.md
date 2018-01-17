@@ -1,5 +1,5 @@
 # React-php-Mysql-web-apps
-This project is created to implement a web application using React-php-Mysql which is respond to the following web coding challenge : https://github.com/hiddenfounders/web-coding-challenge
+This project is created to implement a web application using React-php-Mysql  
 
 ## Get Started 
 
